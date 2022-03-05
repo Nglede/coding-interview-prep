@@ -1,0 +1,2034 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "coding-interview-prep",
+      "version": "1.0.0",
+      "description": "",
+      "main": "index.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "Nglede",
+      "license": "ISC"
+    },
+    "prefix": "/home/nord/FCC/coding-interview-prep"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "/home/nord/.pnpm-store/v3",
+    "virtualStoreDir": "/home/nord/FCC/coding-interview-prep/node_modules/.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "/home/nord/FCC/coding-interview-prep",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/eslint/8.10.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "eslint",
+      "rawSpec": "latest"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint/8.10.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "6 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/@eslint/eslintrc/1.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "@eslint/eslintrc",
+      "rawSpec": "^1.2.0"
+    }
+  },
+  "7 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/@eslint/eslintrc/1.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "8 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint/8.10.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "9 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/@eslint/eslintrc/1.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "10 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/functional-red-black-tree/1.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "functional-red-black-tree",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "11 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/functional-red-black-tree/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "12 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/functional-red-black-tree/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "13 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/esutils/2.0.3",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "esutils",
+      "rawSpec": "^2.0.2"
+    }
+  },
+  "14 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/esutils/2.0.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "15 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/esutils/2.0.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "16 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/glob-parent/6.0.2",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "glob-parent",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "17 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/glob-parent/6.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "18 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/esquery/1.4.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "esquery",
+      "rawSpec": "^1.4.0"
+    }
+  },
+  "19 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/esquery/1.4.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/glob-parent/6.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/esquery/1.4.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "22 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/eslint-visitor-keys/3.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^3.3.0"
+    }
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-visitor-keys/3.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "24 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/doctrine/3.0.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "doctrine",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "25 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/doctrine/3.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "26 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/globals/13.12.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "globals",
+      "rawSpec": "^13.6.0"
+    }
+  },
+  "27 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/globals/13.12.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "28 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/chalk/4.1.2",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "chalk",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "29 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/chalk/4.1.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "30 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/escape-string-regexp/4.0.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "escape-string-regexp",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "31 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/escape-string-regexp/4.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "32 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/imurmurhash/0.1.4",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "imurmurhash",
+      "rawSpec": "^0.1.4"
+    }
+  },
+  "33 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/imurmurhash/0.1.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "34 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ignore/5.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "ignore",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "35 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ignore/5.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "36 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-visitor-keys/3.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "37 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/doctrine/3.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "38 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/globals/13.12.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "39 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/is-glob/4.0.3",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "is-glob",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "40 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/is-glob/4.0.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "41 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/json-stable-stringify-without-jsonify/1.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "json-stable-stringify-without-jsonify",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "42 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/json-stable-stringify-without-jsonify/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "43 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/chalk/4.1.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "44 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/escape-string-regexp/4.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "45 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/js-yaml/4.1.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "js-yaml",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "46 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/js-yaml/4.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "47 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/levn/0.4.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "levn",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "48 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/levn/0.4.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "49 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/import-fresh/3.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "import-fresh",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "50 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/import-fresh/3.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "51 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/imurmurhash/0.1.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "52 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/lodash.merge/4.6.2",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "lodash.merge",
+      "rawSpec": "^4.6.2"
+    }
+  },
+  "53 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/lodash.merge/4.6.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "54 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ignore/5.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "55 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/natural-compare/1.4.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "natural-compare",
+      "rawSpec": "^1.4.0"
+    }
+  },
+  "56 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/natural-compare/1.4.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "57 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/is-glob/4.0.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "58 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/optionator/0.9.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "optionator",
+      "rawSpec": "^0.9.1"
+    }
+  },
+  "59 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/optionator/0.9.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "60 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/js-yaml/4.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "61 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/levn/0.4.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "62 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/regexpp/3.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "regexpp",
+      "rawSpec": "^3.2.0"
+    }
+  },
+  "63 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/regexpp/3.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "64 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/file-entry-cache/6.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "file-entry-cache",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "65 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/file-entry-cache/6.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "66 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/debug/4.3.3",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "debug",
+      "rawSpec": "^4.3.2"
+    }
+  },
+  "67 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/debug/4.3.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "68 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/strip-ansi/6.0.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "strip-ansi",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "69 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/strip-ansi/6.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "70 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/import-fresh/3.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "71 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/eslint-scope/7.1.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "eslint-scope",
+      "rawSpec": "^7.1.1"
+    }
+  },
+  "72 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-scope/7.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "73 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/lodash.merge/4.6.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "74 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/strip-json-comments/3.1.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "strip-json-comments",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "75 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/strip-json-comments/3.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "76 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/text-table/0.2.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "text-table",
+      "rawSpec": "^0.2.0"
+    }
+  },
+  "77 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/text-table/0.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "78 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/v8-compile-cache/2.3.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "v8-compile-cache",
+      "rawSpec": "^2.0.3"
+    }
+  },
+  "79 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/v8-compile-cache/2.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "80 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/natural-compare/1.4.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "81 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "minimatch",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "82 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/minimatch/3.1.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "83 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/optionator/0.9.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "84 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/regexpp/3.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "85 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/@humanwhocodes%2Fconfig-array"
+  },
+  "86 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/debug/4.3.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "87 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/strip-ansi/6.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "88 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/fast-deep-equal"
+  },
+  "89 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/cross-spawn"
+  },
+  "90 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-scope/7.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "91 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/strip-json-comments/3.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "92 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/text-table/0.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "93 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/v8-compile-cache/2.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "94 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/minimatch/3.1.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "95 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/eslint-utils"
+  },
+  "96 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/file-entry-cache/6.0.1",
+    "size": 7793,
+    "status": "started"
+  },
+  "97 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/file-entry-cache/6.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "98 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/espree"
+  },
+  "99 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/ajv"
+  },
+  "100 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/cross-spawn/7.0.3",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "cross-spawn",
+      "rawSpec": "^7.0.2"
+    }
+  },
+  "101 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/cross-spawn/7.0.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "102 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/cross-spawn/7.0.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "103 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/eslint-utils/3.0.0",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "eslint-utils",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "104 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-utils/3.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "105 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/fast-deep-equal/3.1.3",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "fast-deep-equal",
+      "rawSpec": "^3.1.3"
+    }
+  },
+  "106 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fast-deep-equal/3.1.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "107 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-utils/3.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "108 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fast-deep-equal/3.1.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "109 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmmirror.com/@humanwhocodes%2Fconfig-array"
+  },
+  "110 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/espree/9.3.1",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "espree",
+      "rawSpec": "^9.3.1"
+    }
+  },
+  "111 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/espree/9.3.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "112 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/espree/9.3.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "113 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ajv/6.12.6",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "ajv",
+      "rawSpec": "^6.10.0"
+    }
+  },
+  "114 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ajv/6.12.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "115 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ajv/6.12.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "116 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ERR_SOCKET_TIMEOUT",
+      "code": "ERR_SOCKET_TIMEOUT",
+      "attempts": 1,
+      "resource": "https://registry.npmmirror.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
+  },
+  "117 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "err": {
+      "name": "Error",
+      "message": "GET https://registry.npmmirror.com/@humanwhocodes%2Fconfig-array: request to https://registry.npmmirror.com/@humanwhocodes%2Fconfig-array failed, reason: connect ECONNREFUSED 47.89.91.91:443",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "Error: GET https://registry.npmmirror.com/@humanwhocodes%2Fconfig-array: request to https://registry.npmmirror.com/@humanwhocodes%2Fconfig-array failed, reason: connect ECONNREFUSED 47.89.91.91:443\n    at RetryOperation._fn (/home/nord/.node/corepack/pnpm/6.31.0/dist/pnpm.cjs:85655:19)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
+    }
+  },
+  "118 debug pnpm": "Using cached meta from /home/nord/.cache/pnpm/metadata/registry.npmmirror.com/@humanwhocodes/config-array.json",
+  "119 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/@humanwhocodes/config-array/0.9.5",
+    "wanted": {
+      "dependentId": "/eslint/8.10.0",
+      "name": "@humanwhocodes/config-array",
+      "rawSpec": "^0.9.2"
+    }
+  },
+  "120 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/@humanwhocodes/config-array/0.9.5",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "121 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ajv/6.12.6",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "ajv",
+      "rawSpec": "^6.12.4"
+    }
+  },
+  "122 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/debug/4.3.3",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "debug",
+      "rawSpec": "^4.3.2"
+    }
+  },
+  "123 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/espree/9.3.1",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "espree",
+      "rawSpec": "^9.3.1"
+    }
+  },
+  "124 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/globals/13.12.1",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "globals",
+      "rawSpec": "^13.9.0"
+    }
+  },
+  "125 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ignore/4.0.6",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "ignore",
+      "rawSpec": "^4.0.6"
+    }
+  },
+  "126 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ignore/4.0.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "127 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/import-fresh/3.3.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "import-fresh",
+      "rawSpec": "^3.2.1"
+    }
+  },
+  "128 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/js-yaml/4.1.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "js-yaml",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "129 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "minimatch",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "130 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/strip-json-comments/3.1.1",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.2.0",
+      "name": "strip-json-comments",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "131 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/is-glob/4.0.3",
+    "wanted": {
+      "dependentId": "/glob-parent/6.0.2",
+      "name": "is-glob",
+      "rawSpec": "^4.0.3"
+    }
+  },
+  "132 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/esutils/2.0.3",
+    "wanted": {
+      "dependentId": "/doctrine/3.0.0",
+      "name": "esutils",
+      "rawSpec": "^2.0.2"
+    }
+  },
+  "133 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/levn/0.4.1",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "levn",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "134 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/@humanwhocodes/config-array/0.9.5",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "135 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/estraverse/5.3.0",
+    "wanted": {
+      "dependentId": "/esquery/1.4.0",
+      "name": "estraverse",
+      "rawSpec": "^5.1.0"
+    }
+  },
+  "136 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/estraverse/5.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "137 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/estraverse/5.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "138 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ansi-styles/4.3.0",
+    "wanted": {
+      "dependentId": "/chalk/4.1.2",
+      "name": "ansi-styles",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "139 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ansi-styles/4.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "140 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ansi-styles/4.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "141 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/prelude-ls/1.2.1",
+    "wanted": {
+      "dependentId": "/levn/0.4.1",
+      "name": "prelude-ls",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "142 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/prelude-ls/1.2.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "143 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/prelude-ls/1.2.1",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "prelude-ls",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "144 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/argparse/2.0.1",
+    "wanted": {
+      "dependentId": "/js-yaml/4.1.0",
+      "name": "argparse",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "145 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/argparse/2.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "146 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/word-wrap/1.2.3",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "word-wrap",
+      "rawSpec": "^1.2.3"
+    }
+  },
+  "147 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/word-wrap/1.2.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "148 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/word-wrap/1.2.3",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "149 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/parent-module"
+  },
+  "150 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/is-extglob"
+  },
+  "151 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/type-check"
+  },
+  "152 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/fast-levenshtein"
+  },
+  "153 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/deep-is/0.1.4",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "deep-is",
+      "rawSpec": "^0.1.3"
+    }
+  },
+  "154 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/deep-is/0.1.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "155 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ansi-regex/5.0.1",
+    "wanted": {
+      "dependentId": "/strip-ansi/6.0.1",
+      "name": "ansi-regex",
+      "rawSpec": "^5.0.1"
+    }
+  },
+  "156 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ansi-regex/5.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "157 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/estraverse/5.3.0",
+    "wanted": {
+      "dependentId": "/eslint-scope/7.1.1",
+      "name": "estraverse",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "158 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/resolve-from/4.0.0",
+    "wanted": {
+      "dependentId": "/import-fresh/3.3.0",
+      "name": "resolve-from",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "159 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/resolve-from/4.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "160 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ansi-regex/5.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "161 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/deep-is/0.1.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "162 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/resolve-from/4.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "163 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/supports-color/7.2.0",
+    "wanted": {
+      "dependentId": "/chalk/4.1.2",
+      "name": "supports-color",
+      "rawSpec": "^7.1.0"
+    }
+  },
+  "164 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/supports-color/7.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "165 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/supports-color/7.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "166 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/type-fest/0.20.2",
+    "wanted": {
+      "dependentId": "/globals/13.12.1",
+      "name": "type-fest",
+      "rawSpec": "^0.20.2"
+    }
+  },
+  "167 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/type-fest/0.20.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "168 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/ignore/4.0.6",
+    "size": 11533,
+    "status": "started"
+  },
+  "169 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ignore/4.0.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "170 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/flat-cache/3.0.4",
+    "wanted": {
+      "dependentId": "/file-entry-cache/6.0.1",
+      "name": "flat-cache",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "171 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/flat-cache/3.0.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "172 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/eslint-visitor-keys/2.1.0",
+    "wanted": {
+      "dependentId": "/eslint-utils/3.0.0",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "173 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-visitor-keys/2.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "174 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/prelude-ls/1.2.1",
+    "size": 9408,
+    "status": "started"
+  },
+  "175 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/ms"
+  },
+  "176 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/brace-expansion/1.1.11",
+    "wanted": {
+      "dependentId": "/minimatch/3.1.2",
+      "name": "brace-expansion",
+      "rawSpec": "^1.1.7"
+    }
+  },
+  "177 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/brace-expansion/1.1.11",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "178 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/path-key/3.1.1",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "path-key",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "179 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/path-key/3.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "180 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/esrecurse/4.3.0",
+    "wanted": {
+      "dependentId": "/eslint-scope/7.1.1",
+      "name": "esrecurse",
+      "rawSpec": "^4.3.0"
+    }
+  },
+  "181 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/esrecurse/4.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "182 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/eslint-visitor-keys/3.3.0",
+    "wanted": {
+      "dependentId": "/espree/9.3.1",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^3.3.0"
+    }
+  },
+  "183 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/fast-deep-equal/3.1.3",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "fast-deep-equal",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "184 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/which/2.0.2",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "which",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "185 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/which/2.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "186 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/brace-expansion/1.1.11",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "187 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/prelude-ls/1.2.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "188 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/path-key/3.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "189 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/esrecurse/4.3.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "190 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/shebang-command/2.0.0",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "shebang-command",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "191 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/shebang-command/2.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "192 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/which/2.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "193 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/shebang-command/2.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "194 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/acorn/8.7.0",
+    "wanted": {
+      "dependentId": "/espree/9.3.1",
+      "name": "acorn",
+      "rawSpec": "^8.7.0"
+    }
+  },
+  "195 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/acorn/8.7.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "196 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/acorn/8.7.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "197 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/flat-cache/3.0.4",
+    "size": 8856,
+    "status": "started"
+  },
+  "198 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/fast-json-stable-stringify/2.1.0",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "fast-json-stable-stringify",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "199 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fast-json-stable-stringify/2.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "200 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/debug/4.3.3",
+    "wanted": {
+      "dependentId": "/@humanwhocodes/config-array/0.9.5",
+      "name": "debug",
+      "rawSpec": "^4.1.1"
+    }
+  },
+  "201 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/@humanwhocodes/config-array/0.9.5",
+      "name": "minimatch",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "202 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/acorn-jsx/5.3.2",
+    "wanted": {
+      "dependentId": "/espree/9.3.1",
+      "name": "acorn-jsx",
+      "rawSpec": "^5.3.1"
+    }
+  },
+  "203 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/acorn-jsx/5.3.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "204 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/json-schema-traverse/0.4.1",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "json-schema-traverse",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "205 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/json-schema-traverse/0.4.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "206 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/uri-js/4.4.1",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "uri-js",
+      "rawSpec": "^4.2.2"
+    }
+  },
+  "207 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/uri-js/4.4.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "208 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fast-json-stable-stringify/2.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "209 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/json-schema-traverse/0.4.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "210 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/uri-js/4.4.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "211 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/flat-cache/3.0.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "212 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/eslint-visitor-keys/2.1.0",
+    "size": 8155,
+    "status": "started"
+  },
+  "213 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/eslint-visitor-keys/2.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "214 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/color-convert/2.0.1",
+    "wanted": {
+      "dependentId": "/ansi-styles/4.3.0",
+      "name": "color-convert",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "215 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/color-convert/2.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "216 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/flatted/3.2.5",
+    "wanted": {
+      "dependentId": "/flat-cache/3.0.4",
+      "name": "flatted",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "217 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/flatted/3.2.5",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "218 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/estraverse/5.3.0",
+    "wanted": {
+      "dependentId": "/esrecurse/4.3.0",
+      "name": "estraverse",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "219 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/color-convert/2.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "220 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/has-flag/4.0.0",
+    "wanted": {
+      "dependentId": "/supports-color/7.2.0",
+      "name": "has-flag",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "221 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/has-flag/4.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "222 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/rimraf/3.0.2",
+    "wanted": {
+      "dependentId": "/flat-cache/3.0.4",
+      "name": "rimraf",
+      "rawSpec": "^3.0.2"
+    }
+  },
+  "223 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/rimraf/3.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "224 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/has-flag/4.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "225 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/rimraf/3.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "226 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/acorn-jsx/5.3.2",
+    "size": 7635,
+    "status": "started"
+  },
+  "227 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/acorn-jsx/5.3.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "228 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/@humanwhocodes/object-schema/1.2.1",
+    "wanted": {
+      "dependentId": "/@humanwhocodes/config-array/0.9.5",
+      "name": "@humanwhocodes/object-schema",
+      "rawSpec": "^1.2.1"
+    }
+  },
+  "229 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/@humanwhocodes/object-schema/1.2.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "230 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/balanced-match/1.0.2",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "balanced-match",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "231 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/balanced-match/1.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "232 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/balanced-match/1.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "233 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/concat-map/0.0.1",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "concat-map",
+      "rawSpec": "0.0.1"
+    }
+  },
+  "234 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/concat-map/0.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "235 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/shebang-regex/3.0.0",
+    "wanted": {
+      "dependentId": "/shebang-command/2.0.0",
+      "name": "shebang-regex",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "236 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/shebang-regex/3.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "237 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/isexe/2.0.0",
+    "wanted": {
+      "dependentId": "/which/2.0.2",
+      "name": "isexe",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "238 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/isexe/2.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "239 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/shebang-regex/3.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "240 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/flatted/3.2.5",
+    "size": 58508,
+    "status": "started"
+  },
+  "241 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/@humanwhocodes/object-schema/1.2.1",
+    "size": 8903,
+    "status": "started"
+  },
+  "242 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/@humanwhocodes/object-schema/1.2.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "243 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/flatted/3.2.5",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "244 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/glob/7.2.0",
+    "wanted": {
+      "dependentId": "/rimraf/3.0.2",
+      "name": "glob",
+      "rawSpec": "^7.1.3"
+    }
+  },
+  "245 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/glob/7.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "246 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/glob/7.2.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "247 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/isexe/2.0.0",
+    "size": 3756,
+    "status": "started"
+  },
+  "248 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/concat-map/0.0.1",
+    "size": 2263,
+    "status": "started"
+  },
+  "249 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/color-name/1.1.4",
+    "wanted": {
+      "dependentId": "/color-convert/2.0.1",
+      "name": "color-name",
+      "rawSpec": "~1.1.4"
+    }
+  },
+  "250 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/color-name/1.1.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "251 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/glob/7.2.0",
+      "name": "minimatch",
+      "rawSpec": "^3.0.4"
+    }
+  },
+  "252 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/punycode/2.1.1",
+    "wanted": {
+      "dependentId": "/uri-js/4.4.1",
+      "name": "punycode",
+      "rawSpec": "^2.1.0"
+    }
+  },
+  "253 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/punycode/2.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "254 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/color-name/1.1.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "255 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/punycode/2.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "256 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/concat-map/0.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "257 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/isexe/2.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "258 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/glob/7.2.0",
+      "name": "inherits",
+      "rawSpec": "2"
+    }
+  },
+  "259 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/inherits/2.0.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "260 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/fs.realpath/1.0.0",
+    "wanted": {
+      "dependentId": "/glob/7.2.0",
+      "name": "fs.realpath",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "261 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fs.realpath/1.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "262 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/inherits/2.0.4",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "263 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/inflight/1.0.6",
+    "wanted": {
+      "dependentId": "/glob/7.2.0",
+      "name": "inflight",
+      "rawSpec": "^1.0.4"
+    }
+  },
+  "264 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/inflight/1.0.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "265 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/once/1.4.0",
+    "wanted": {
+      "dependentId": "/glob/7.2.0",
+      "name": "once",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "266 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/once/1.4.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "267 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/path-is-absolute/1.0.1",
+    "wanted": {
+      "dependentId": "/glob/7.2.0",
+      "name": "path-is-absolute",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "268 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/path-is-absolute/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "269 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/once/1.4.0",
+    "wanted": {
+      "dependentId": "/inflight/1.0.6",
+      "name": "once",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "270 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/fs.realpath/1.0.0",
+    "size": 4434,
+    "status": "started"
+  },
+  "271 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/wrappy/1.0.2",
+    "wanted": {
+      "dependentId": "/inflight/1.0.6",
+      "name": "wrappy",
+      "rawSpec": "1"
+    }
+  },
+  "272 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/wrappy/1.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "273 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/wrappy/1.0.2",
+    "wanted": {
+      "dependentId": "/once/1.4.0",
+      "name": "wrappy",
+      "rawSpec": "1"
+    }
+  },
+  "274 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fs.realpath/1.0.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "275 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/once/1.4.0",
+    "size": 1979,
+    "status": "started"
+  },
+  "276 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/once/1.4.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "277 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/path-is-absolute/1.0.1",
+    "size": 1882,
+    "status": "started"
+  },
+  "278 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/inflight/1.0.6",
+    "size": 2041,
+    "status": "started"
+  },
+  "279 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/path-is-absolute/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "280 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/inflight/1.0.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "281 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmmirror.com/wrappy/1.0.2",
+    "size": 1676,
+    "status": "started"
+  },
+  "282 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/wrappy/1.0.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "283 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/is-extglob/2.1.1",
+    "wanted": {
+      "dependentId": "/is-glob/4.0.3",
+      "name": "is-extglob",
+      "rawSpec": "^2.1.1"
+    }
+  },
+  "284 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/is-extglob/2.1.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "285 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/fast-levenshtein/2.0.6",
+    "wanted": {
+      "dependentId": "/optionator/0.9.1",
+      "name": "fast-levenshtein",
+      "rawSpec": "^2.0.6"
+    }
+  },
+  "286 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/fast-levenshtein/2.0.6",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "287 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/parent-module/1.0.1",
+    "wanted": {
+      "dependentId": "/import-fresh/3.3.0",
+      "name": "parent-module",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "288 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/parent-module/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "289 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/parent-module/1.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "290 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNREFUSED",
+      "code": "ECONNREFUSED",
+      "erroredSysCall": "connect"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmmirror.com/type-check"
+  },
+  "291 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/ms/2.1.2",
+    "wanted": {
+      "dependentId": "/debug/4.3.3",
+      "name": "ms",
+      "rawSpec": "2.1.2"
+    }
+  },
+  "292 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ms/2.1.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "293 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/ms/2.1.2",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "294 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmmirror.com/callsites/3.1.0",
+    "wanted": {
+      "dependentId": "/parent-module/1.0.1",
+      "name": "callsites",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "295 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/callsites/3.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "resolved"
+  },
+  "296 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/callsites/3.1.0",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "found_in_store"
+  },
+  "297 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ERR_SOCKET_TIMEOUT",
+      "code": "ERR_SOCKET_TIMEOUT",
+      "attempts": 2,
+      "resource": "https://registry.npmmirror.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmmirror.com/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
+  },
+  "298 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ERR_SOCKET_TIMEOUT",
+      "code": "ERR_SOCKET_TIMEOUT",
+      "attempts": 1,
+      "resource": "https://registry.npmmirror.com/argparse/-/argparse-2.0.1.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/argparse/-/argparse-2.0.1.tgz"
+  },
+  "299 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ERR_SOCKET_TIMEOUT",
+      "code": "ERR_SOCKET_TIMEOUT",
+      "attempts": 1,
+      "resource": "https://registry.npmmirror.com/type-fest/-/type-fest-0.20.2.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/type-fest/-/type-fest-0.20.2.tgz"
+  },
+  "300 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ERR_SOCKET_TIMEOUT",
+      "code": "ERR_SOCKET_TIMEOUT",
+      "attempts": 1,
+      "resource": "https://registry.npmmirror.com/is-extglob/-/is-extglob-2.1.1.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/is-extglob/-/is-extglob-2.1.1.tgz"
+  },
+  "301 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ERR_SOCKET_TIMEOUT",
+      "code": "ERR_SOCKET_TIMEOUT",
+      "attempts": 1,
+      "resource": "https://registry.npmmirror.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmmirror.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
+  },
+  "302 debug pnpm:fetching-progress": {
+    "attempt": 2,
+    "packageId": "registry.npmmirror.com/argparse/2.0.1",
+    "size": 39740,
+    "status": "started"
+  },
+  "303 debug pnpm:progress": {
+    "packageId": "registry.npmmirror.com/argparse/2.0.1",
+    "requester": "/home/nord/FCC/coding-interview-prep",
+    "status": "fetched"
+  },
+  "304 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "pkgsStack": [
+      {
+        "id": "registry.npmmirror.com/eslint/8.10.0",
+        "name": "eslint",
+        "version": "8.10.0"
+      },
+      {
+        "id": "registry.npmmirror.com/levn/0.4.1",
+        "name": "levn",
+        "version": "0.4.1"
+      }
+    ],
+    "err": {
+      "name": "pnpm",
+      "message": "GET https://registry.npmmirror.com/type-check: request to https://registry.npmmirror.com/type-check failed, reason: connect ECONNREFUSED 47.89.91.91:443",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "pnpm: GET https://registry.npmmirror.com/type-check: request to https://registry.npmmirror.com/type-check failed, reason: connect ECONNREFUSED 47.89.91.91:443\n    at RetryOperation._fn (/home/nord/.node/corepack/pnpm/6.31.0/dist/pnpm.cjs:85655:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
+    }
+  }
+}

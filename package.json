@@ -1,0 +1,18 @@
+{
+  "name": "coding-interview-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nglede",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.4.0",
+    "jest": "^27.5.1",
+    "prettier": "2.5.1"
+  }
+}
